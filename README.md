@@ -5,12 +5,17 @@ Giao diện được xây dựng dựa trên một tình huống thực tế tro
 
 Tác giả
 Quách Quỳnh Thục Nghi - MSSV: 31241023166
+
 Nguyễn Kim Mai - MSSV: 31241021957
+
 Nguyễn Kiều Vi - MSSV: 31241025199
+
 Trịnh Kim Chi - MSSV: 31241022302
 --------------------------------------------------		
 Kiến thức áp dụng
+
 Ngôn ngữ: Python
+
 Thư viện hỗ trợ StreamLit
 --------------------------------------------------	
 Hướng dẫn sử dụng
