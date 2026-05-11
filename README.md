@@ -11,15 +11,19 @@ Nguyễn Kim Mai - MSSV: 31241021957
 Nguyễn Kiều Vi - MSSV: 31241025199
 
 Trịnh Kim Chi - MSSV: 31241022302
+
 --------------------------------------------------		
 Kiến thức áp dụng
 
 Ngôn ngữ: Python
 
 Thư viện hỗ trợ StreamLit
+
 --------------------------------------------------	
 Hướng dẫn sử dụng
+
 Tải xuống các file dữ liệu mẫu bao gồm: Dataset_mau_nho,  Dataset_mau_vua,  Dataset_mau_lon.
+
 Truy cập đường link để đi đến giao diện web và bắt đầu sử dụng. Đường dẫn:https://toi-uu-dau-tu.streamlit.app/ 
 
 
