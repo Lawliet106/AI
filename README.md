@@ -4,6 +4,7 @@ Bộ môn : Trí tuệ nhân tạo
 Giao diện được xây dựng dựa trên một tình huống thực tế trong lĩnh vực tài chính, khi nhà đầu tư cần lựa chọn danh mục đầu tư tối ưu trong điều kiện nguồn vốn có hạn. Bài toán này được mô hình hóa dưới dạng bài toán cái túi (Knapsack Problem), với mục tiêu tối đa hóa giá trị lợi nhuận thu được nhưng vẫn đảm bảo tổng chi phí đầu tư không vượt quá ngân sách cho phép. Từ đó, hai thuật toán Backtracking và Cat Swarm Optimization được lựa chọn để hỗ trợ quá trình tìm kiếm và tối ưu hóa phương án đầu tư hiệu quả. 
 
 Tác giả
+
 Quách Quỳnh Thục Nghi - MSSV: 31241023166
 
 Nguyễn Kim Mai - MSSV: 31241021957
