@@ -17,7 +17,7 @@ Kiến thức áp dụng
 
 Ngôn ngữ: Python
 
-Thư viện hỗ trợ StreamLit
+Thư viện hỗ trợ StreamLit, Pandas,Numpy, Matplotlib, Networkx
 
 --------------------------------------------------	
 Hướng dẫn sử dụng
