@@ -1409,7 +1409,7 @@ if (_cso_res or _bt_res) and not _stale:
             with tabs[tab_idx]:
                 st.markdown(
                     "<div class='chart-caption'>"
-                    "Mỗi chấm là một chú mèo. Màu <b>vàng/đỏ</b> = fitness cao, "
+                    "Mỗi chấm là một chú mèo. Màu <b>cam/đỏ</b> = fitness cao, "
                     "màu <b>trắng/vàng nhạt</b> = fitness thấp. ⭐ = mèo tốt nhất tại mốc đó."
                     "</div>",
                     unsafe_allow_html=True,
